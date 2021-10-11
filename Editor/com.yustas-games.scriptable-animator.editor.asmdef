@@ -1,0 +1,15 @@
+{
+    "name": "com.yustas-games.scriptable-animator.editor",
+    "references": [
+        "GUID:769affcb0f6134c44a98af09a4783222"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
